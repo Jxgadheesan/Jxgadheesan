@@ -1,54 +1,40 @@
-# Hey, I'm Jagadheesan
+# Hi, I'm Jagadheesan 👋
 
-Welcome to my little corner of GitHub — where code, creativity, and a tiny bit of chaos live in harmony.
-
----
-
-## 🧠 What I'm Building
-
-* **Django + React** projects (currently cooking a **Hall Booking System** called `backend` 😎)
-* Crafting a **premium black–white portfolio** with silky-smooth scroll animations and a hero image that refuses to end
-* Playing around with simple game ideas (like my multiplayer cube tag game — wholesome chaos)
+A curious mind trying to turn **code into art** — one clean script, one smart idea, one late‑night caffeine moment at a time.
 
 ---
 
-## 💻 Tech I vibe with
+## 🚀 What I Do
 
-* **Python**, Django, Pandas, Numpy
-* **JavaScript/TypeScript**, React
-* **VS Code** (with way too many extensions)
-* **Git & GitHub** (obviously)
-
----
-
-## 🎮 Gaming Side Quest
-
-My heart belongs to **Red Dead Redemption 2** (100+ hrs, Arthur Morgan supremacy).
-Currently exploring **Elden Ring** and plotting to grab **Cyberpunk 2077** next.
+* Exploring the world of **Data Science** — analysis, insights, and anything that lets data speak.
+* Writing Python that’s simple, readable, and actually works.
+* Building small game ideas just for fun and creativity.
+* Always learning something new, even if it breaks my brain a little.
 
 ---
 
-## ✨ Creative Universe
+## 🛠️ Tech Stack
 
-* Movies, anime, journaling, art, sketching — if it can be created, I'm in.
-* Building a mindset/motivation IG page called **Kovxan**.
-
----
-
-## 🚀 Current Goals
-
-* Master calisthenics (Spider‑Man rebirth arc loading…)
-* Level up as a Python/Django + React full‑stack dev
-* Ship more open‑source projects
+**Python**, Pandas, NumPy, Matplotlib, Jupyter, Git, VS Code.
 
 ---
 
-## 🌐 Portfolio
+## ✨ A Little About Me
 
-Check out my portfolio here: [https://Jagadheesan-T.github.io/Portfolio](https://Jagadheesan-T.github.io/Portfolio)
+* I see coding as a form of **art** — expressive, personal, and limitless.
+* Big fan of films, anime, journaling, reading, and drawing.
+* Gamer at heart — finished **Elden Ring** long ago but still in emotional recovery.
 
 ---
 
-## 📬 Connect
+## 📌 What I'm Focusing On
 
-If you vibe with code, creativity, or cowboy games — let’s talk!
+* Becoming strong in **data science**, step by step.
+* Creating meaningful projects that show skill, clarity, and creativity.
+* Staying consistent, leveling up, and not being afraid to start again.
+
+---
+
+## 📫 Reach Out
+
+If you like clean code, creative energy, or just talking ideas — I’m always around.
