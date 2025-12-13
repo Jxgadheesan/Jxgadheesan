@@ -22,8 +22,8 @@ A curious mind trying to turn **code into art** — one clean script, one smart 
 ## ✨ A Little About Me
 
 * I see coding as a form of **art** — expressive, personal, and limitless.
-* Big fan of films, anime, journaling, reading, and drawing.
-* Gamer at heart — finished **Elden Ring** long ago but still in emotional recovery.
+* films, anime, journaling, reading, and drawing.
+* I play videogames
 
 ---
 
