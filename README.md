@@ -1,3 +1,4 @@
+```text
 name
     jagadheesan
 
@@ -9,3 +10,4 @@ used_extensions
 
 interests
     coding, art, journaling, games, films, anime
+```
